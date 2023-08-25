@@ -1,16 +1,16 @@
-# cat
+<h1 align="center">Cat breeds</h1>
 
-A new Flutter project.
 
-## Getting Started
+<p align="center">
+<img src="./assets/images/1.png" width="30%"></img> 
+<img src="./assets/images/2.png" width="30%"></img> 
+<img src="./assets/images/3.png" width="30%"></img> 
+</p>
 
-This project is a starting point for a Flutter application.
+# FlutterWeather
 
-A few resources to get you started if this is your first Flutter project:
+A simple Cat Breed Search App created using [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/) and using catwiki from [TheCatApi](https://thecatapi.com/)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- Searchable breed list
+- Zoom & Clickable Item
